@@ -329,7 +329,7 @@ function renderComparisonGesamtzeit(year) {
   const members = getMembersForYear(year);
 
   const xVals = members.map(m => m.name);
-  const yVals = members.map(m => m.data.time_overall);
+  const yVals = members.map(m => m.data.time_overall / 60);
 
   const trace = {
     x: xVals,
@@ -536,7 +536,7 @@ function renderOverallTimeChart(memberIndex) {
 
   const traces = [{
     x: years,
-    y: years.map(y => member.years[y].time_overall),
+    y: years.map(y => member.years[y].time_overall / 60),
     name: 'Gesamtzeit',
     type: 'scatter',
     mode: 'lines+markers',
@@ -913,7 +913,7 @@ function updateStats(memberIndex) {
   const avgChange = changes.length ? changes.reduce((a, b) => a + b, 0) / changes.length : 0;
 
   document.getElementById('statTotalTests').textContent = totalTests;
-  document.getElementById('statAvgTime').textContent = formatTime(Math.round(avgOverallTime * 60));
+  document.getElementById('statAvgTime').textContent = formatTime(Math.round(avgOverallTime));
   document.getElementById('statBestTime').textContent = `${avgAir.toFixed(1)} bar`;
 
   const changeEl = document.getElementById('statWorstTime');

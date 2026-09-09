@@ -1,1182 +1,354 @@
 {
   "members": [
     {
-      "name": "Andreas Müller",
+      "name": "Ni. B.",
       "years": {
-        "2024": {
+        "2026": {
           "health": {
             "bp_before": {
-              "low": 82,
-              "high": 128
-            },
-            "bp_after": {
-              "low": 78,
-              "high": 122
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 74,
-              "load": 86,
-              "after": 69
-            }
-          },
-          "time_tests": [
-            45,
-            120,
-            89,
-            203,
-            67
-          ],
-          "air_consumption": 153,
-          "time_overall": 13
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 80,
-              "high": 125
-            },
-            "bp_after": {
-              "low": 76,
-              "high": 119
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 72,
-              "load": 84,
-              "after": 67
-            }
-          },
-          "time_tests": [
-            52,
-            115,
-            95,
-            198,
-            71
-          ],
-          "air_consumption": 146,
-          "time_overall": 14
-        }
-      }
-    },
-    {
-      "name": "Bettina Schmidt",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 85,
-              "high": 135
-            },
-            "bp_after": {
-              "low": 81,
-              "high": 128
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 82,
-              "load": 94,
-              "after": 76
-            }
-          },
-          "time_tests": [
-            67,
-            189,
-            134,
-            267,
-            98
-          ],
-          "air_consumption": 155,
-          "time_overall": 16
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 83,
-              "high": 132
-            },
-            "bp_after": {
-              "low": 79,
-              "high": 126
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 80,
-              "load": 92,
-              "after": 74
-            }
-          },
-          "time_tests": [
-            71,
-            182,
-            129,
-            259,
-            102
-          ],
-          "air_consumption": 158,
-          "time_overall": 13
-        }
-      }
-    },
-    {
-      "name": "Christian Weber",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 75,
-              "high": 118
-            },
-            "bp_after": {
-              "low": 72,
-              "high": 114
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 68,
-              "load": 80,
-              "after": 64
-            }
-          },
-          "time_tests": [
-            34,
-            98,
-            56,
-            167,
-            43
-          ],
-          "air_consumption": 148,
-          "time_overall": 13
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 74,
-              "high": 116
-            },
-            "bp_after": {
-              "low": 71,
-              "high": 112
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 67,
-              "load": 79,
-              "after": 63
-            }
-          },
-          "time_tests": [
-            38,
-            92,
-            61,
-            159,
-            48
-          ],
-          "air_consumption": 144,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Daniela Fischer",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 88,
-              "high": 142
-            },
-            "bp_after": {
-              "low": 84,
-              "high": 135
-            },
-            "pulsoxy": 96,
-            "pulse": {
-              "before": 88,
-              "load": 100,
-              "after": 82
-            }
-          },
-          "time_tests": [
-            89,
-            234,
-            156,
-            298,
-            123
-          ],
-          "air_consumption": 141,
-          "time_overall": 14
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 86,
-              "high": 139
-            },
-            "bp_after": {
-              "low": 82,
-              "high": 132
-            },
-            "pulsoxy": 96,
-            "pulse": {
-              "before": 86,
-              "load": 98,
-              "after": 80
-            }
-          },
-          "time_tests": [
-            94,
-            228,
-            162,
-            291,
-            118
-          ],
-          "air_consumption": 153,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Felix Wagner",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 80,
-              "high": 125
-            },
-            "bp_after": {
-              "low": 76,
-              "high": 119
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 75,
-              "load": 87,
-              "after": 70
-            }
-          },
-          "time_tests": [
-            56,
-            145,
-            89,
-            212,
-            78
-          ],
-          "air_consumption": 144,
-          "time_overall": 15
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 78,
-              "high": 122
-            },
-            "bp_after": {
-              "low": 74,
-              "high": 117
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 73,
-              "load": 85,
-              "after": 68
-            }
-          },
-          "time_tests": [
-            61,
-            139,
-            94,
-            205,
-            83
-          ],
-          "air_consumption": 156,
-          "time_overall": 13
-        }
-      }
-    },
-    {
-      "name": "Gabriele Becker",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 84,
-              "high": 133
-            },
-            "bp_after": {
-              "low": 80,
-              "high": 127
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 81,
-              "load": 93,
-              "after": 75
-            }
-          },
-          "time_tests": [
-            78,
-            198,
-            134,
-            267,
-            101
-          ],
-          "air_consumption": 156,
-          "time_overall": 16
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 82,
-              "high": 130
-            },
-            "bp_after": {
-              "low": 78,
-              "high": 124
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 79,
-              "load": 91,
-              "after": 73
-            }
-          },
-          "time_tests": [
-            82,
-            191,
-            129,
-            259,
-            106
-          ],
-          "air_consumption": 147,
-          "time_overall": 14
-        }
-      }
-    },
-    {
-      "name": "Hans-Peter Hoffmann",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 78,
-              "high": 122
-            },
-            "bp_after": {
-              "low": 74,
-              "high": 117
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 70,
-              "load": 82,
-              "after": 65
-            }
-          },
-          "time_tests": [
-            43,
-            112,
-            67,
-            189,
-            54
-          ],
-          "air_consumption": 159,
-          "time_overall": 14
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 76,
-              "high": 120
-            },
-            "bp_after": {
               "low": 73,
-              "high": 115
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 69,
-              "load": 81,
-              "after": 64
-            }
-          },
-          "time_tests": [
-            48,
-            106,
-            72,
-            182,
-            59
-          ],
-          "air_consumption": 142,
-          "time_overall": 13
-        }
-      }
-    },
-    {
-      "name": "Ingeborg Schulz",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 90,
-              "high": 145
-            },
-            "bp_after": {
-              "low": 86,
-              "high": 138
-            },
-            "pulsoxy": 95,
-            "pulse": {
-              "before": 92,
-              "load": 104,
-              "after": 86
-            }
-          },
-          "time_tests": [
-            102,
-            267,
-            189,
-            300,
-            145
-          ],
-          "air_consumption": 157,
-          "time_overall": 15
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 88,
-              "high": 142
-            },
-            "bp_after": {
-              "low": 84,
-              "high": 135
-            },
-            "pulsoxy": 95,
-            "pulse": {
-              "before": 90,
-              "load": 102,
-              "after": 84
-            }
-          },
-          "time_tests": [
-            97,
-            259,
-            182,
-            300,
-            151
-          ],
-          "air_consumption": 156,
-          "time_overall": 16
-        }
-      }
-    },
-    {
-      "name": "Jürgen Koch",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 81,
-              "high": 127
-            },
-            "bp_after": {
-              "low": 77,
-              "high": 121
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 76,
-              "load": 88,
-              "after": 71
-            }
-          },
-          "time_tests": [
-            67,
-            156,
-            101,
-            223,
-            78
-          ],
-          "air_consumption": 151,
-          "time_overall": 17
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 79,
-              "high": 124
-            },
-            "bp_after": {
-              "low": 75,
-              "high": 118
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 74,
-              "load": 86,
-              "after": 69
-            }
-          },
-          "time_tests": [
-            72,
-            151,
-            96,
-            217,
-            83
-          ],
-          "air_consumption": 148,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Karin Richter",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 72,
-              "high": 115
-            },
-            "bp_after": {
-              "low": 69,
-              "high": 111
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 65,
-              "load": 77,
-              "after": 61
-            }
-          },
-          "time_tests": [
-            34,
-            89,
-            56,
-            145,
-            43
-          ],
-          "air_consumption": 157,
-          "time_overall": 15
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 71,
-              "high": 113
-            },
-            "bp_after": {
-              "low": 68,
-              "high": 109
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 64,
-              "load": 76,
-              "after": 60
-            }
-          },
-          "time_tests": [
-            38,
-            84,
-            61,
-            139,
-            48
-          ],
-          "air_consumption": 157,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Lars Neumann",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 92,
-              "high": 148
-            },
-            "bp_after": {
-              "low": 88,
-              "high": 140
-            },
-            "pulsoxy": 94,
-            "pulse": {
-              "before": 95,
-              "load": 107,
-              "after": 89
-            }
-          },
-          "time_tests": [
-            112,
-            278,
-            201,
-            300,
-            156
-          ],
-          "air_consumption": 154,
-          "time_overall": 13
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 90,
-              "high": 145
-            },
-            "bp_after": {
-              "low": 86,
-              "high": 137
-            },
-            "pulsoxy": 94,
-            "pulse": {
-              "before": 93,
-              "load": 105,
-              "after": 87
-            }
-          },
-          "time_tests": [
-            107,
-            271,
-            195,
-            300,
-            151
-          ],
-          "air_consumption": 145,
-          "time_overall": 14
-        }
-      }
-    },
-    {
-      "name": "Monika Schwarz",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 85,
-              "high": 134
-            },
-            "bp_after": {
-              "low": 81,
-              "high": 128
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 83,
-              "load": 95,
-              "after": 77
-            }
-          },
-          "time_tests": [
-            89,
-            212,
-            145,
-            278,
-            112
-          ],
-          "air_consumption": 142,
-          "time_overall": 14
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 83,
-              "high": 131
-            },
-            "bp_after": {
-              "low": 79,
-              "high": 125
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 81,
-              "load": 93,
-              "after": 75
-            }
-          },
-          "time_tests": [
-            94,
-            205,
-            151,
-            271,
-            107
-          ],
-          "air_consumption": 142,
-          "time_overall": 14
-        }
-      }
-    },
-    {
-      "name": "Norbert Braun",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 79,
-              "high": 124
-            },
-            "bp_after": {
-              "low": 75,
-              "high": 118
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 73,
-              "load": 85,
-              "after": 68
-            }
-          },
-          "time_tests": [
-            56,
-            134,
-            78,
-            189,
-            67
-          ],
-          "air_consumption": 153,
-          "time_overall": 14
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 77,
-              "high": 121
-            },
-            "bp_after": {
-              "low": 73,
-              "high": 115
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 71,
-              "load": 83,
-              "after": 66
-            }
-          },
-          "time_tests": [
-            61,
-            129,
-            83,
-            182,
-            72
-          ],
-          "air_consumption": 147,
-          "time_overall": 14
-        }
-      }
-    },
-    {
-      "name": "Petra Krüger",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 83,
-              "high": 131
-            },
-            "bp_after": {
-              "low": 79,
-              "high": 125
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 80,
-              "load": 92,
-              "after": 74
-            }
-          },
-          "time_tests": [
-            78,
-            189,
-            123,
-            256,
-            98
-          ],
-          "air_consumption": 145,
-          "time_overall": 17
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 81,
-              "high": 128
-            },
-            "bp_after": {
-              "low": 77,
-              "high": 122
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 78,
-              "load": 90,
-              "after": 72
-            }
-          },
-          "time_tests": [
-            83,
-            182,
-            118,
-            249,
-            103
-          ],
-          "air_consumption": 153,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Ralf Zimmermann",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 76,
-              "high": 120
-            },
-            "bp_after": {
-              "low": 72,
-              "high": 115
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 69,
-              "load": 81,
-              "after": 64
-            }
-          },
-          "time_tests": [
-            45,
-            101,
-            67,
-            156,
-            54
-          ],
-          "air_consumption": 143,
-          "time_overall": 16
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 75,
-              "high": 118
-            },
-            "bp_after": {
-              "low": 71,
-              "high": 113
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 68,
-              "load": 80,
-              "after": 63
-            }
-          },
-          "time_tests": [
-            49,
-            96,
-            72,
-            149,
-            59
-          ],
-          "air_consumption": 143,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Sandra Hofmann",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 94,
-              "high": 150
-            },
-            "bp_after": {
-              "low": 90,
-              "high": 142
-            },
-            "pulsoxy": 94,
-            "pulse": {
-              "before": 98,
-              "load": 110,
-              "after": 92
-            }
-          },
-          "time_tests": [
-            123,
-            289,
-            212,
-            300,
-            167
-          ],
-          "air_consumption": 160,
-          "time_overall": 16
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 92,
-              "high": 147
-            },
-            "bp_after": {
-              "low": 88,
-              "high": 139
-            },
-            "pulsoxy": 94,
-            "pulse": {
-              "before": 96,
-              "load": 108,
-              "after": 90
-            }
-          },
-          "time_tests": [
-            118,
-            282,
-            205,
-            300,
-            161
-          ],
-          "air_consumption": 151,
-          "time_overall": 16
-        }
-      }
-    },
-    {
-      "name": "Thomas Hartmann",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 81,
-              "high": 127
-            },
-            "bp_after": {
-              "low": 77,
-              "high": 121
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 76,
-              "load": 88,
-              "after": 71
-            }
-          },
-          "time_tests": [
-            67,
-            167,
-            101,
-            223,
-            78
-          ],
-          "air_consumption": 157,
-          "time_overall": 16
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 79,
-              "high": 124
-            },
-            "bp_after": {
-              "low": 75,
-              "high": 118
-            },
-            "pulsoxy": 98,
-            "pulse": {
-              "before": 74,
-              "load": 86,
-              "after": 69
-            }
-          },
-          "time_tests": [
-            71,
-            161,
-            96,
-            217,
-            83
-          ],
-          "air_consumption": 145,
-          "time_overall": 13
-        }
-      }
-    },
-    {
-      "name": "Ursula Lange",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 70,
-              "high": 112
+              "high": 136
             },
             "bp_after": {
               "low": 67,
-              "high": 108
+              "high": 155
             },
-            "pulsoxy": 99,
+            "pulsoxy": 97,
             "pulse": {
-              "before": 63,
-              "load": 75,
-              "after": 59
+              "before": 71,
+              "load": 156,
+              "after": 102
             }
           },
           "time_tests": [
-            34,
-            78,
-            56,
-            134,
-            43
+            130,
+            80,
+            55,
+            95,
+            66
           ],
-          "air_consumption": 146,
-          "time_overall": 14
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 69,
-              "high": 110
-            },
-            "bp_after": {
-              "low": 66,
-              "high": 106
-            },
-            "pulsoxy": 99,
-            "pulse": {
-              "before": 62,
-              "load": 74,
-              "after": 58
-            }
-          },
-          "time_tests": [
-            38,
-            73,
-            61,
-            128,
-            48
-          ],
-          "air_consumption": 144,
-          "time_overall": 17
+          "air_consumption": 210,
+          "time_overall": 900
         }
       }
     },
     {
-      "name": "Volker Schulze",
+      "name": "Fa. S.",
       "years": {
-        "2024": {
+        "2026": {
           "health": {
             "bp_before": {
-              "low": 89,
-              "high": 144
+              "low": 75,
+              "high": 155
             },
             "bp_after": {
-              "low": 85,
-              "high": 137
+              "low": 75,
+              "high": 177
             },
-            "pulsoxy": 95,
+            "pulsoxy": 93,
             "pulse": {
               "before": 90,
-              "load": 102,
-              "after": 84
+              "load": 181,
+              "after": 126
             }
           },
           "time_tests": [
-            101,
-            256,
-            178,
-            298,
-            134
+            117,
+            77,
+            64,
+            87,
+            56
           ],
-          "air_consumption": 158,
-          "time_overall": 14
-        },
-        "2025": {
+          "air_consumption": 200,
+          "time_overall": 780
+        }
+      }
+    },
+    {
+      "name": "Pe. K.",
+      "years": {
+        "2026": {
           "health": {
             "bp_before": {
               "low": 87,
-              "high": 141
+              "high": 162
             },
             "bp_after": {
-              "low": 83,
-              "high": 134
+              "low": 91,
+              "high": 164
+            },
+            "pulsoxy": 77,
+            "pulse": {
+              "before": 99,
+              "load": 171,
+              "after": 133
+            }
+          },
+          "time_tests": [
+            150,
+            85,
+            70,
+            109,
+            52
+          ],
+          "air_consumption": 190,
+          "time_overall": 900
+        }
+      }
+    },
+    {
+      "name": "Ma. H.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 84,
+              "high": 161
+            },
+            "bp_after": {
+              "low": 85,
+              "high": 166
+            },
+            "pulsoxy": 99,
+            "pulse": {
+              "before": 84,
+              "load": 167,
+              "after": 118
+            }
+          },
+          "time_tests": [
+            110,
+            59,
+            61,
+            77,
+            42
+          ],
+          "air_consumption": 160,
+          "time_overall": 720
+        }
+      }
+    },
+    {
+      "name": "Ra. S.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 60,
+              "high": 130
+            },
+            "bp_after": {
+              "low": 73,
+              "high": 143
             },
             "pulsoxy": 95,
             "pulse": {
-              "before": 88,
-              "load": 100,
-              "after": 82
+              "before": 97,
+              "load": 136,
+              "after": 112
+            }
+          },
+          "time_tests": [
+            210,
+            180,
+            80,
+            147,
+            53
+          ],
+          "air_consumption": 260,
+          "time_overall": 1140
+        }
+      }
+    },
+    {
+      "name": "Ke. W.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 97,
+              "high": 157
+            },
+            "bp_after": {
+              "low": 81,
+              "high": 142
+            },
+            "pulsoxy": 80,
+            "pulse": {
+              "before": 86,
+              "load": 170,
+              "after": 133
+            }
+          },
+          "time_tests": [
+            146,
+            70,
+            69,
+            99,
+            73
+          ],
+          "air_consumption": 165,
+          "time_overall": 900
+        }
+      }
+    },
+    {
+      "name": "Ro. E.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 88,
+              "high": 158
+            },
+            "bp_after": {
+              "low": 91,
+              "high": 179
+            },
+            "pulsoxy": 92,
+            "pulse": {
+              "before": 80,
+              "load": 171,
+              "after": 114
+            }
+          },
+          "time_tests": [
+            138,
+            93,
+            68,
+            107,
+            68
+          ],
+          "air_consumption": 230,
+          "time_overall": 780
+        }
+      }
+    },
+    {
+      "name": "Ma. R.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 64,
+              "high": 132
+            },
+            "bp_after": {
+              "low": 74,
+              "high": 154
+            },
+            "pulsoxy": 84,
+            "pulse": {
+              "before": 71,
+              "load": 108,
+              "after": 131
+            }
+          },
+          "time_tests": [
+            83,
+            68,
+            49,
+            93,
+            55
+          ],
+          "air_consumption": 260,
+          "time_overall": 900
+        }
+      }
+    },
+    {
+      "name": "Th. S.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 75,
+              "high": 130
+            },
+            "bp_after": {
+              "low": 80,
+              "high": 173
+            },
+            "pulsoxy": 98,
+            "pulse": {
+              "before": 76,
+              "load": 189,
+              "after": 117
+            }
+          },
+          "time_tests": [
+            111,
+            71,
+            51,
+            94,
+            70
+          ],
+          "air_consumption": 240,
+          "time_overall": 1020
+        }
+      }
+    },
+    {
+      "name": "Pa. V.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 71,
+              "high": 123
+            },
+            "bp_after": {
+              "low": 65,
+              "high": 139
+            },
+            "pulsoxy": 85,
+            "pulse": {
+              "before": 76,
+              "load": 174,
+              "after": 138
+            }
+          },
+          "time_tests": [
+            111,
+            85,
+            74,
+            122,
+            57
+          ],
+          "air_consumption": 239,
+          "time_overall": 1140
+        }
+      }
+    },
+    {
+      "name": "Ro. S.",
+      "years": {
+        "2026": {
+          "health": {
+            "bp_before": {
+              "low": 72,
+              "high": 126
+            },
+            "bp_after": {
+              "low": 72,
+              "high": 159
+            },
+            "pulsoxy": 92,
+            "pulse": {
+              "before": 83,
+              "load": 174,
+              "after": 120
             }
           },
           "time_tests": [
             96,
-            249,
-            173,
-            291,
-            129
+            61,
+            43,
+            87,
+            50
           ],
-          "air_consumption": 153,
-          "time_overall": 15
-        }
-      }
-    },
-    {
-      "name": "Waltraud König",
-      "years": {
-        "2024": {
-          "health": {
-            "bp_before": {
-              "low": 84,
-              "high": 132
-            },
-            "bp_after": {
-              "low": 80,
-              "high": 126
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 82,
-              "load": 94,
-              "after": 76
-            }
-          },
-          "time_tests": [
-            89,
-            201,
-            134,
-            267,
-            101
-          ],
-          "air_consumption": 158,
-          "time_overall": 15
-        },
-        "2025": {
-          "health": {
-            "bp_before": {
-              "low": 82,
-              "high": 129
-            },
-            "bp_after": {
-              "low": 78,
-              "high": 123
-            },
-            "pulsoxy": 97,
-            "pulse": {
-              "before": 80,
-              "load": 92,
-              "after": 74
-            }
-          },
-          "time_tests": [
-            94,
-            195,
-            129,
-            259,
-            106
-          ],
-          "air_consumption": 145,
-          "time_overall": 14
+          "air_consumption": 250,
+          "time_overall": 1380
         }
       }
     }
