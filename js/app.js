@@ -8,7 +8,7 @@ let pulsoxyChart = null;
 let comparisonCharts = {};
 
 const comparisonDivIds = ['comparisonTest1', 'comparisonTest2', 'comparisonTest3', 'comparisonTest4', 'comparisonTest5', 'comparisonGesamtzeit', 'comparisonLuftverbrauch'];
-const testNames = ['Gehen mit/ohne Schläuche', 'Hindernisparcours', 'Gehen mit Kanistern', 'Treppensteigen', 'Schlauchrollen'];
+const testNames = ['Gehen m. Schläuche', 'Hindernisparcours', 'Gehen mit Kanistern', 'Treppensteigen', 'Schlauchrollen'];
 
 const PASSWORD_HASH = 'c9ee2cd36e45c21d63b0dad2a2aa7654cedaa0ee254505347e04ca070acf6b5e';
 const LOGIN_SESSION_KEY = 'fw_login';
@@ -82,7 +82,7 @@ function applyResponsiveLayout(layout) {
   layout.yaxis = layout.yaxis || {};
   Object.assign(layout.xaxis, {
     tickfont: Object.assign({}, layout.xaxis.tickfont, { size: 11 }),
-    tickangle: small ? -35 : -20
+    tickangle: small ? -55 : -45
   });
   if (layout.xaxis.title) {
     layout.xaxis.title.font = Object.assign({}, layout.xaxis.title.font, { size: 12 });
@@ -97,7 +97,7 @@ function applyResponsiveLayout(layout) {
     layout.title.font.size = small ? 14 : 15;
   }
   if (layout.margin) {
-    Object.assign(layout.margin, { r: 12, l: 46, t: 55, b: 60 });
+    Object.assign(layout.margin, { r: 12, l: 46, t: 105, b: 100 });
   }
 }
 
