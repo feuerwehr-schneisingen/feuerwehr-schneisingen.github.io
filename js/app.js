@@ -847,7 +847,7 @@ function renderPulsoxyChart(memberIndex) {
       tickfont: { size: 13 },
       gridcolor: '#e9ecef',
       linecolor: '#dee2e6',
-      range: [90, 100]
+      range: [80, 100]
     },
     legend: {
       orientation: 'h',

@@ -29,6 +29,33 @@
           ],
           "air_consumption": 210,
           "time_overall": 900
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 85,
+              "high": 140
+            },
+            "bp_after": {
+              "low": 87,
+              "high": 145
+            },
+            "pulsoxy": 94,
+            "pulse": {
+              "before": 66,
+              "load": 177,
+              "after": 126
+            }
+          },
+          "time_tests": [
+            109,
+            73,
+            55,
+            99,
+            70
+          ],
+          "air_consumption": 210,
+          "time_overall": 840
         }
       }
     },
@@ -60,6 +87,33 @@
             56
           ],
           "air_consumption": 200,
+          "time_overall": 780
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 86,
+              "high": 149
+            },
+            "bp_after": {
+              "low": 82,
+              "high": 170
+            },
+            "pulsoxy": 90,
+            "pulse": {
+              "before": 118,
+              "load": 157,
+              "after": 139
+            }
+          },
+          "time_tests": [
+            129,
+            75,
+            59,
+            97,
+            69
+          ],
+          "air_consumption": 207,
           "time_overall": 780
         }
       }
@@ -93,6 +147,33 @@
           ],
           "air_consumption": 190,
           "time_overall": 900
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 101,
+              "high": 162
+            },
+            "bp_after": {
+              "low": 91,
+              "high": 173
+            },
+            "pulsoxy": 91,
+            "pulse": {
+              "before": 98,
+              "load": 172,
+              "after": 139
+            }
+          },
+          "time_tests": [
+            135,
+            73,
+            56,
+            106,
+            49
+          ],
+          "air_consumption": 150,
+          "time_overall": 600
         }
       }
     },
@@ -124,6 +205,33 @@
             42
           ],
           "air_consumption": 160,
+          "time_overall": 720
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 94,
+              "high": 140
+            },
+            "bp_after": {
+              "low": 87,
+              "high": 173
+            },
+            "pulsoxy": 93,
+            "pulse": {
+              "before": 95,
+              "load": 177,
+              "after": 115
+            }
+          },
+          "time_tests": [
+            116,
+            67,
+            62,
+            103,
+            82
+          ],
+          "air_consumption": 190,
           "time_overall": 720
         }
       }
@@ -157,6 +265,33 @@
           ],
           "air_consumption": 260,
           "time_overall": 1140
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 107,
+              "high": 155
+            },
+            "bp_after": {
+              "low": 117,
+              "high": 159
+            },
+            "pulsoxy": 97,
+            "pulse": {
+              "before": 73,
+              "load": 172,
+              "after": 128
+            }
+          },
+          "time_tests": [
+            180,
+            126,
+            64,
+            146,
+            67
+          ],
+          "air_consumption": 200,
+          "time_overall": 1080
         }
       }
     },
@@ -253,6 +388,33 @@
           ],
           "air_consumption": 260,
           "time_overall": 900
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 85,
+              "high": 153
+            },
+            "bp_after": {
+              "low": 87,
+              "high": 193
+            },
+            "pulsoxy": 89,
+            "pulse": {
+              "before": 73,
+              "load": 184,
+              "after": 145
+            }
+          },
+          "time_tests": [
+            103,
+            70,
+            49,
+            91,
+            73
+          ],
+          "air_consumption": 175,
+          "time_overall": 720
         }
       }
     },
@@ -317,6 +479,33 @@
           ],
           "air_consumption": 239,
           "time_overall": 1140
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 76,
+              "high": 120
+            },
+            "bp_after": {
+              "low": 68,
+              "high": 153
+            },
+            "pulsoxy": 90,
+            "pulse": {
+              "before": 84,
+              "load": 188,
+              "after": 143
+            }
+          },
+          "time_tests": [
+            115,
+            67,
+            45,
+            119,
+            54
+          ],
+          "air_consumption": 190,
+          "time_overall": 1080
         }
       }
     },
@@ -349,6 +538,65 @@
           ],
           "air_consumption": 250,
           "time_overall": 1380
+        },
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 90,
+              "high": 148
+            },
+            "bp_after": {
+              "low": 123,
+              "high": 176
+            },
+            "pulsoxy": 92,
+            "pulse": {
+              "before": 162,
+              "load": 184,
+              "after": 131
+            }
+          },
+          "time_tests": [
+            120,
+            88,
+            49,
+            105,
+            83
+          ],
+          "air_consumption": 177,
+          "time_overall": 540
+        }
+      }
+    },
+    {
+      "name": "Da. W.",
+      "years": {
+        "2025": {
+          "health": {
+            "bp_before": {
+              "low": 81,
+              "high": 147
+            },
+            "bp_after": {
+              "low": 92,
+              "high": 177
+            },
+            "pulsoxy": 94,
+            "pulse": {
+              "before": 88,
+              "load": 187,
+              "after": 126
+            }
+          },
+          "time_tests": [
+            109,
+            64,
+            61,
+            101,
+            58
+          ],
+          "air_consumption": 160,
+          "time_overall": 840
         }
       }
     }
